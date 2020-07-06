@@ -26,3 +26,5 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 - [x] 2. Visualizing the Loss Landscape of Neural Nets [video](https://www.youtube.com/watch?v=78vq6kgsTa8) | [paper](https://arxiv.org/pdf/1712.09913.pdf)
 
+## Effective Training and Inference
+- [x] 1. Winning The Lottery Ticket Hypothesis  [video](https://www.youtube.com/watch?time_continue=7&v=s7DqRZVvRiQ&feature=emb_logo) | [paper](https://arxiv.org/pdf/1803.03635.pdf) 
