@@ -2,7 +2,7 @@
 Collection of recorded talks/videos at machine learning conferences, seminars, tutorials, workshops...
 
 
-## Theorical machine learning
+## Theoretical machine learning
 - [x] 1. Toward the Theoretical Understanding of Deep Learning (ICML 2018) [video](https://www.youtube.com/watch?v=KDRN-FyyqK0&feature=youtu.be) | [papers](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
 
 - [x] 2. Variational Bayes and Beyond: Bayesian Inference for Big Data (ICML 2018) [video](https://www.youtube.com/watch?v=Moo4-KR5qNg) 
