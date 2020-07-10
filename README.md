@@ -7,6 +7,8 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 - [x] 2. Variational Bayes and Beyond: Bayesian Inference for Big Data (ICML 2018) [video](https://www.youtube.com/watch?v=Moo4-KR5qNg) 
 
+- [ ] 3. Bandit Algorithms [video1](https://www.youtube.com/watch?v=xN11-epRuSU) | [video2](https://www.youtube.com/watch?v=NyyLr6F4bkI) | [video3](https://www.youtube.com/watch?v=yZqp2d4fn7k) 
+
 ## Multitask learning/Meta-learning
 - [x] 1. Flexible Neural Networks and the Frontiers of Meta-Learning [video](https://www.youtube.com/watch?v=kmbPnsgHxz4) | [paper](https://arxiv.org/pdf/1806.03836.pdf)
 
@@ -35,8 +37,17 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 - [x] 2. Visualizing the Loss Landscape of Neural Nets [video](https://www.youtube.com/watch?v=78vq6kgsTa8) | [paper](https://arxiv.org/pdf/1712.09913.pdf)
 
+- [x] 3. Visualization for Machine Learning (NeurIPS 2018) [video](https://www.youtube.com/watch?v=ze08gwVPaXk)
+
 ## Effective Training and Inference
 - [x] 1. Winning The Lottery Ticket Hypothesis  [video](https://www.youtube.com/watch?time_continue=7&v=s7DqRZVvRiQ&feature=emb_logo) | [paper](https://arxiv.org/pdf/1803.03635.pdf) 
+
+## Graph 
+- [ ] 1. Large-scale Graph Representation Learning [video](https://www.youtube.com/watch?v=oQL4E1gK3VU) 
+
+- [ ] 2. The Affiliation Graph Model [video](https://www.youtube.com/watch?v=BQgglNWdqak)
+
+- [ ] 3. Graph neural networks: Variations and applications [video](https://www.youtube.com/watch?v=cWIeTMklzNg)
 
 ## Natural Language Processing 
 - [x] ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [video](https://www.youtube.com/watch?v=QWu7j1nb_jI)|[paper](https://arxiv.org/pdf/2003.10555.pdf)
