@@ -37,3 +37,6 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 ## Effective Training and Inference
 - [x] 1. Winning The Lottery Ticket Hypothesis  [video](https://www.youtube.com/watch?time_continue=7&v=s7DqRZVvRiQ&feature=emb_logo) | [paper](https://arxiv.org/pdf/1803.03635.pdf) 
+
+## Natural Language Processing 
+- [x] ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [video](https://www.youtube.com/watch?v=QWu7j1nb_jI)|[paper](https://arxiv.org/pdf/2003.10555.pdf)
