@@ -9,7 +9,7 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 - [ ] 3. Bandit Algorithms [video1](https://www.youtube.com/watch?v=xN11-epRuSU) | [video2](https://www.youtube.com/watch?v=NyyLr6F4bkI) | [video3](https://www.youtube.com/watch?v=yZqp2d4fn7k) 
 
-- [ ] 4. Kernel Methods [part1](https://www.youtube.com/watch?v=alrKls6BORc) | [part2](https://www.youtube.com/watch?v=eANiXrWO1dM)
+- [ ] 4. Kernel Methods (Arthur Gretton - MLSS 2020) [part1](https://www.youtube.com/watch?v=alrKls6BORc) | [part2](https://www.youtube.com/watch?v=eANiXrWO1dM)
 
 ## Multitask learning/Meta-learning
 - [x] 1. Flexible Neural Networks and the Frontiers of Meta-Learning [video](https://www.youtube.com/watch?v=kmbPnsgHxz4) | [paper](https://arxiv.org/pdf/1806.03836.pdf)
