@@ -53,3 +53,14 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 ## Natural Language Processing 
 - [x] ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [video](https://www.youtube.com/watch?v=QWu7j1nb_jI)|[paper](https://arxiv.org/pdf/2003.10555.pdf)
+
+#### Speaker Diarization
+- [ ] [ICASSP 2019] Fully Supervised Speaker Diarization: Say Goodbye to clustering [video](https://www.youtube.com/watch?v=pGkqwRPzx9U)
+
+- [ ] [ICASSP 2018] Google's Diarization System: Speaker Diarization with LSTM [video](https://www.youtube.com/watch?v=pjxGPZQeeO4)
+
+- [ ] [ICASSP 2020] End-to-End Multi-speaker Speech Recognition with Transformer [video](https://www.youtube.com/watch?v=Mo2RRNgfU4g) 
+
+- [ ] [ICASSP 2018] Google's D-Vector System: Generalized End-to-End Loss for Speaker Verification [video](https://www.youtube.com/watch?v=AkCPHw2m6bY)
+
+- [ ] Neural building blocks for speaker diarization [video](https://www.youtube.com/watch?v=37R_R82lfwA)
