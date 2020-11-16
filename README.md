@@ -54,17 +54,17 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 ## VII - Natural Language Processing 
 - [x] ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [video](https://www.youtube.com/watch?v=QWu7j1nb_jI)|[paper](https://arxiv.org/pdf/2003.10555.pdf)
 
-- [	] When BERT Plays the Lottery, All Tickets Are Winning [video](https://www.youtube.com/watch?v=IIebBjbBevs) | [paper](https://arxiv.org/abs/2005.00561)
+- [x] When BERT Plays the Lottery, All Tickets Are Winning [video](https://www.youtube.com/watch?v=IIebBjbBevs) | [paper](https://arxiv.org/abs/2005.00561)
 
 - [ ] BERT and PALs: Projected Attention Layers for Efﬁcient Adaptationin Multi-Task Learning
 
 #### A - Speaker Diarization
-- [ ] [ICASSP 2019] Fully Supervised Speaker Diarization: Say Goodbye to clustering [video](https://www.youtube.com/watch?v=pGkqwRPzx9U)
+- [x] [ICASSP 2019] Fully Supervised Speaker Diarization: Say Goodbye to clustering [video](https://www.youtube.com/watch?v=pGkqwRPzx9U)
 
-- [ ] [ICASSP 2018] Google's Diarization System: Speaker Diarization with LSTM [video](https://www.youtube.com/watch?v=pjxGPZQeeO4)
+- [x] [ICASSP 2018] Google's Diarization System: Speaker Diarization with LSTM [video](https://www.youtube.com/watch?v=pjxGPZQeeO4)
 
-- [ ] [ICASSP 2020] End-to-End Multi-speaker Speech Recognition with Transformer [video](https://www.youtube.com/watch?v=Mo2RRNgfU4g) 
+- [x] [ICASSP 2020] End-to-End Multi-speaker Speech Recognition with Transformer [video](https://www.youtube.com/watch?v=Mo2RRNgfU4g) 
 
-- [ ] [ICASSP 2018] Google's D-Vector System: Generalized End-to-End Loss for Speaker Verification [video](https://www.youtube.com/watch?v=AkCPHw2m6bY)
+- [x] [ICASSP 2018] Google's D-Vector System: Generalized End-to-End Loss for Speaker Verification [video](https://www.youtube.com/watch?v=AkCPHw2m6bY)
 
-- [ ] Neural building blocks for speaker diarization [video](https://www.youtube.com/watch?v=37R_R82lfwA)
+- [x] Neural building blocks for speaker diarization [video](https://www.youtube.com/watch?v=37R_R82lfwA)
