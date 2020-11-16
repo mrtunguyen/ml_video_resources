@@ -24,9 +24,11 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 - [ ] 2. Energy-based approaches to self-supervised Learning (Yann Lecun) [video](https://www.youtube.com/watch?v=SaJL4SLfrcY)
 
-- [ ] 3. BYOL: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning  [video](https://www.youtube.com/watch?v=YPfUiOMYOEE) | [paper](https://arxiv.org/pdf/2006.07733.pdf)
+- [x] 3. BYOL: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning  [video](https://www.youtube.com/watch?v=YPfUiOMYOEE) | [paper](https://arxiv.org/pdf/2006.07733.pdf)
 
 - [ ] 4. Big Self-Supervised Models are Strong Semi-Supervised Learners [video](https://www.youtube.com/watch?v=2lkUNDZld-4) | [paper](https://arxiv.org/abs/2006.10029)
+
+- [ ] 5. Unsupervised Speech Decomposition via Triple Information Bottleneck [video](https://www.youtube.com/watch?v=sIlQ3GcslD8) | [paper](https://arxiv.org/pdf/2004.11284.pdf)
 
 #### B - Unsupervised learning
 - [x] 1. Unsupervised Data Augmentation for consistency training [video](https://www.youtube.com/watch?v=fgwurrihq4A), [paper](https://arxiv.org/abs/1904.12848)
@@ -68,3 +70,6 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 - [x] [ICASSP 2018] Google's D-Vector System: Generalized End-to-End Loss for Speaker Verification [video](https://www.youtube.com/watch?v=AkCPHw2m6bY)
 
 - [x] Neural building blocks for speaker diarization [video](https://www.youtube.com/watch?v=37R_R82lfwA)
+
+## VIII - Others
+- [x] Differential Machine Learning [video](https://www.youtube.com/watch?v=Z-pphLRLzbY) | [paper](https://arxiv.org/pdf/2005.02347.pdf)
