@@ -60,6 +60,8 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 - [ ] BERT and PALs: Projected Attention Layers for Efﬁcient Adaptationin Multi-Task Learning
 
+- [ ] Performer - Rethinking Attention with Performers [video](https://www.youtube.com/watch?v=xJrKIPwVwGM) [paper](https://arxiv.org/abs/2009.14794)
+
 #### A - Speaker Diarization
 - [x] [ICASSP 2019] Fully Supervised Speaker Diarization: Say Goodbye to clustering [video](https://www.youtube.com/watch?v=pGkqwRPzx9U)
 
