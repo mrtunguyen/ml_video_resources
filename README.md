@@ -62,6 +62,8 @@ Collection of recorded talks/videos at machine learning conferences, seminars, t
 
 - [ ] Performer - Rethinking Attention with Performers [video](https://www.youtube.com/watch?v=xJrKIPwVwGM) [paper](https://arxiv.org/abs/2009.14794)
 
+- [ ] Learning to summarize from human feedback [video](https://www.youtube.com/watch?v=vLTmnaMpQCs)
+
 #### A - Speaker Diarization
 - [x] [ICASSP 2019] Fully Supervised Speaker Diarization: Say Goodbye to clustering [video](https://www.youtube.com/watch?v=pGkqwRPzx9U)
 
